@@ -1,0 +1,11 @@
+C:\Users\Vinicius_G_Santos\Desktop\Hello\HelloJenkins\bin\Debug\netcoreapp2.0\HelloJenkins.deps.json
+C:\Users\Vinicius_G_Santos\Desktop\Hello\HelloJenkins\bin\Debug\netcoreapp2.0\HelloJenkins.runtimeconfig.json
+C:\Users\Vinicius_G_Santos\Desktop\Hello\HelloJenkins\bin\Debug\netcoreapp2.0\HelloJenkins.runtimeconfig.dev.json
+C:\Users\Vinicius_G_Santos\Desktop\Hello\HelloJenkins\bin\Debug\netcoreapp2.0\HelloJenkins.dll
+C:\Users\Vinicius_G_Santos\Desktop\Hello\HelloJenkins\bin\Debug\netcoreapp2.0\HelloJenkins.pdb
+C:\Users\Vinicius_G_Santos\Desktop\Hello\HelloJenkins\obj\Debug\netcoreapp2.0\HelloJenkins.csprojResolveAssemblyReference.cache
+C:\Users\Vinicius_G_Santos\Desktop\Hello\HelloJenkins\obj\Debug\netcoreapp2.0\HelloJenkins.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius_G_Santos\Desktop\Hello\HelloJenkins\obj\Debug\netcoreapp2.0\HelloJenkins.AssemblyInfoInputs.cache
+C:\Users\Vinicius_G_Santos\Desktop\Hello\HelloJenkins\obj\Debug\netcoreapp2.0\HelloJenkins.AssemblyInfo.cs
+C:\Users\Vinicius_G_Santos\Desktop\Hello\HelloJenkins\obj\Debug\netcoreapp2.0\HelloJenkins.dll
+C:\Users\Vinicius_G_Santos\Desktop\Hello\HelloJenkins\obj\Debug\netcoreapp2.0\HelloJenkins.pdb
